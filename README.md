@@ -1,4 +1,4 @@
-<h1 align="center">Hi , Myself Priyesh Chikhaliya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , Myself Himanshu Namdev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Competitive+Coding;DS%20|%20Algorithms%20|%20OOPS%20;Specialist%20on%20Codewars;5%20Kyu%20on%20Codewars;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -30,7 +30,7 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center" >
-  <a href="https://www.codewars.com/users/Priyeshchikhaliya"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" height=250/></a>
+  <a href="[https://www.codewars.com/users/Priyeshchikhaliya](https://www.codewars.com/users/himanshunamsdev)"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" height=250/></a>
 </p>
 
 
