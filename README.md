@@ -8,7 +8,7 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=himanshunamdev1805&label=Profile%20views&color=0e75b6&style=plastic" alt="himanshunamdev1805" /> 
+	<img src="https://komarev.com/ghpvc/?username=himanshunamdev1805&label=Profile%20views&color=0e75b6&style=plastic" alt="Priyeshchikhaliya" />  
 <!-- 	<a href = "https://commits.top/india.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Priyeshchikhaliya" target="_blank"/> 
 	</a> -->
