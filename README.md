@@ -23,14 +23,14 @@
 <br></br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyeshchikhaliya&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshunamdev1805&theme=algolia" alt="himanshunamdev1805" /></p>
 
 <br>
 
 ## 👀 My Competitive Programming Profiles
 
 <p align="center" >
-  <a href="[https://www.codewars.com/users/Priyeshchikhaliya](https://www.codewars.com/users/himanshunamsdev)"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" height=250/></a>
+  <a href="https://www.codewars.com/users/himanshunamsdev"><img src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="Codewars" height=250/></a>
 </p>
 
 
