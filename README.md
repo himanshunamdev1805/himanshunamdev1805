@@ -149,7 +149,6 @@
 
 <br/>
 
-<h3>Recent Languages</h3>
 
 <br></br>
 
